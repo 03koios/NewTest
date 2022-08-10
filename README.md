@@ -1,3 +1,6 @@
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+
+
 ----- MAP ------
 --[[
 [+] Online Business Simulator 2
